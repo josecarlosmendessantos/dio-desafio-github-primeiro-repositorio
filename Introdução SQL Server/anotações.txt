@@ -1,0 +1,2 @@
+ link para download do SQL SERVER : https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+SQL SERVER é uma banco de dados otimizar a maneira de armazenar dados.
